@@ -1,0 +1,7 @@
+[user]
+    name = Michał Chmurkowski
+    email = m.chmurkowski@users.noreply.github.com
+[core]
+    editor = vim
+[color]
+    ui = false
