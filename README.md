@@ -8,7 +8,9 @@
 
 ## Installation
 
-'stow *
+```bash
+stow *
+```
 
 ## Note
 
